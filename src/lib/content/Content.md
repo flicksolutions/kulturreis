@@ -5,23 +5,21 @@
     import Mapbox from '$lib/components/Mapbox.svelte';
 </script>
 
-# MoLano - pferdegestütztes Coaching
+# Kulturreisen
 
 <ImgText>
 
-![Latifa blickt über ihre Schulter](/20221007_163501.jpg#size=95vw)
+![Flyer Save the date](/200 Jahre Kulturreisen_Save the date.jpg#size=95vw)
 
-<figcaption>In der Leichtigkeit darf Neues entstehen</figcaption>
+<figcaption>Bildinschrift>
 
 </ImgText>
 
-## Was ist pferdegestütztes Coaching?
+## Wer sind wir?
 
-Pferde sind Meister in der nonverbalen Kommunikation und können uns Menschen dadurch helfen, uns selber besser kennen und verstehen zu lernen. Ihre Fähigkeit, in Sekundenschnelle auf ihre Umgebung reagieren zu können, sichert seit jeher ihr Überleben und das Zusammenleben in der Herde. Gerade durch diese Fähigkeit sind sie hervorragende Beobachter und «lesen» uns wie ein offenes Buch. Sie spiegeln unsere Gefühle, zeigen uns schonungslos auf, wie es gerade um uns steht … ob wir wollen oder nicht. Sie leben im Hier und Jetzt, sind absolut ehrlich, unbestechlich, bewerten uns nicht und sind immer wieder bereit, sich auf uns einzulassen.
+6 Freunde aus Willisau.
 
-Pferde bieten uns eine wundervolle Möglichkeit, etwas über uns selbst zu lernen.
-
-## Und wie geht das nun konkret?
+## Was machen wir
 
 Beim pferdegestützten Coaching liegt der Schwerpunkt wie bei jedem anderen Coaching auf der Hilfe zur Selbsthilfe. Das Pferd als Co-Coach hilft mit seiner unbestechlichen Ehrlichkeit die Schwerpunkte aufzuzeigen. Der Coach unterstützt den Prozess durch geeignete Fragen und Übungen.
 Ziel ist immer, den Coachee auf seinem Weg zur Selbstreflexion und im Finden von für ihn passenden Lösungen zu unterstützen.
@@ -120,9 +118,8 @@ Auch der längste Weg beginnt mit dem ersten Schritt.
 ## Kontakt
 
 <address>
-Rosmarie Locher<br>
-Dorfstrasse 5<br>
-3368 Bleienbach<br>
+Bitte keine Werbung!<br>
+
 
 E-Mail: [rosmarie@molano.ch](mailto:rosmarie@molano.ch)
 
