@@ -9,7 +9,7 @@
 
 <ImgText>
 
-![Flyer Save the date](/200 Jahre Kulturreisen_Save the date.jpg#size=95vw)
+![Flyer Save the date](/static/200 Jahre Kulturreisen_Save the date.jpg#size=95vw)
 
 <figcaption>Bildinschrift>
 
