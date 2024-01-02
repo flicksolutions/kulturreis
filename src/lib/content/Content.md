@@ -9,9 +9,9 @@
 
 <ImgText>
 
-![Flyer Save the date](/static/200 Jahre Kulturreisen_Save the date.jpg#size=95vw)
+![Flyer Save the date](static/200JahreKulturreisen_Savethedate.jpgg#size=95vw)
 
-<figcaption>Bildinschrift>
+<figcaption><Bildinschrift>
 
 </ImgText>
 
@@ -21,19 +21,15 @@
 
 ## Was machen wir
 
-Beim pferdegestützten Coaching liegt der Schwerpunkt wie bei jedem anderen Coaching auf der Hilfe zur Selbsthilfe. Das Pferd als Co-Coach hilft mit seiner unbestechlichen Ehrlichkeit die Schwerpunkte aufzuzeigen. Der Coach unterstützt den Prozess durch geeignete Fragen und Übungen.
-Ziel ist immer, den Coachee auf seinem Weg zur Selbstreflexion und im Finden von für ihn passenden Lösungen zu unterstützen.
-Das pferdegestützte Coaching findet vom Boden aus statt. Das heisst, es wird nicht geritten, sondern alle Übungen werden mit dem Pferd an der Hand absolviert.
+Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung. Wir laden zur Sause mit funky Sound von Spinning Wheel. Eintritt frei, Austritt Türkollekte. Wir freuen uns auf euch: Chregu, Fäbi, Isbär, Oli, Peti & Roman! 
 
-## Bei welchen Themen ist ein pferdegestütztes Coaching hilfreich?
 
-- Klarheit schaffen
-- Selbstvertrauen aufbauen
-- Achtsamkeit uns selbst wie auch anderen gegenüber fördern
-- Kommunikation verbessern
-- Entscheidungsfindung in schwierigen Lebensphasen unterstützen
-- Grenzen setzen
-- Unser Unterbewusstsein besser kennenlernen
+## Was sind unsere Expertisen?
+
+- Kulturelle Veranstaltungen
+- Essen
+- Trinken
+- Hausboot fahren
 
 <Gallery>
 ![Rosmarie und Latifa](/20221013_105234.jpg)
@@ -57,7 +53,7 @@ Das pferdegestützte Coaching findet vom Boden aus statt. Das heisst, es wird ni
 
 <div class="hero">
 
-### Rosmarie Locher
+### Chregu
 
 ![Rosmarie Locher](/_20200404_155109.jpg#size=45vw)
 
@@ -69,7 +65,7 @@ Mit der Ausbildung zum INTEGRALHORSE® Familiencoach konnte ich diesen Wunsch nu
 </div>
 <div class="hero">
 
-### Duana
+### Fäbi
 
 ![Duana](/20201111_111555.jpg#size=45vw)
 
@@ -79,7 +75,7 @@ Ich bin der Big-Boss in unserer kleinen Herde und zeige immer ganz deutlich, wen
 </div>
 <div class="hero">
 
-### Latifa
+### Isbär
 
 ![Latifa](/20221013_103340.jpg#size=45vw)
 
@@ -89,7 +85,23 @@ Ich liebe es, mit meiner Schnauze alles ganz genau zu untersuchen und nichts ist
 </div>
 <div class="hero">
 
-### Ada
+### Oli
+
+![Ada](/ada_new.jpg#size=45vw)
+und ich bin der Co-Co-Coach und behalte immer den Überblick.
+
+</div>
+<div class="hero">
+
+### Peti
+
+![Ada](/ada_new.jpg#size=45vw)
+und ich bin der Co-Co-Coach und behalte immer den Überblick.
+
+</div>
+<div class="hero">
+
+### Roman
 
 ![Ada](/ada_new.jpg#size=45vw)
 und ich bin der Co-Co-Coach und behalte immer den Überblick.
