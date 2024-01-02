@@ -90,7 +90,7 @@ Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmit
 
 ### Roman
 
-![Ada](//static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](//static/Hausboot_Gruppenfoto.JPG#size=45vw)
 Spezialgebiet: Hat Tipps für alle Lebenslagen
 
 </div>
