@@ -11,8 +11,6 @@
 
 ![Flyer Save the date](static/200JahreKulturreisen_Savethedate.jpgg#size=95vw)
 
-</ImgText>
-
 ## Wer sind wir?
 
 6 Freunde aus Willisau.
