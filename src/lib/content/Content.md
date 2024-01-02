@@ -111,8 +111,8 @@ Auch der längste Weg beginnt mit dem ersten Schritt.
 <address>
 Bitte keine Werbung!<br>
 
-E-Mail: [rosmarie@molano.ch](mailto:rosmarie@molano.ch)
+E-Mail: [-](mailto:-)
 
 </address>
 
-<Mapbox location={[7.756737443355724, 47.18519492606521]} adress="Dorfstrasse 5, 3368 Bleienbach" link="https://goo.gl/maps/2gJ85unQD5FNrMCz7"/>
+<Mapbox location={[7.991864, 47.116437]} adress="Schlossfeldstrasse 1, 6130 Willisau" link="https://maps.app.goo.gl/Sx7kGhnA54F879J29"/>
