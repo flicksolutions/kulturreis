@@ -7,7 +7,7 @@
 
 # Kulturreisen
 
-![Flyer Save the date](static/200JahreKulturreisen_Savethedate.jpgg#size=95vw)
+![Flyer Save the date](/200JahreKulturreisen_Savethedate.jpg#size=95vw)
 
 ## Wer sind wir?
 
@@ -25,9 +25,8 @@ Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung.
 - Hausboot fahren
 
 <Gallery>
-![Rosmarie und Latifa](static/Hausboot_Gruppenfoto.JPG)
-![Coaching-Session](static/Hausboot_Gruppenfoto.JPG)
-
+![Rosmarie und Latifa](/Hausboot_Gruppenfoto.JPG)
+![Coaching-Session](/Hausboot_Gruppenfoto.JPG)
 </Gallery>
 
 ## Wer wir sind
@@ -38,7 +37,7 @@ Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung.
 
 ### Chregu
 
-![Gruppenfoto](static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Wein, Whisky, Bier
 
@@ -47,7 +46,7 @@ Spezialgebiet: Wein, Whisky, Bier
 
 ### Fäbi
 
-![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Kaffee, vom Siebträger bis hin zum Filterkaffee
 
@@ -56,7 +55,7 @@ Spezialgebiet: Kaffee, vom Siebträger bis hin zum Filterkaffee
 
 ### Isbär
 
-![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Trinkt und isst gerne
 
@@ -65,7 +64,7 @@ Spezialgebiet: Trinkt und isst gerne
 
 ### Oli
 
-![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Rechtliche Belangen
 
@@ -74,7 +73,7 @@ Spezialgebiet: Rechtliche Belangen
 
 ### Peti
 
-![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPGsize=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmittel geben
 
@@ -83,7 +82,7 @@ Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmit
 
 ### Roman
 
-![Gruppenfoto](//static/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 Spezialgebiet: Hat Tipps für alle Lebenslagen
 
 </div>
@@ -111,7 +110,6 @@ Auch der längste Weg beginnt mit dem ersten Schritt.
 
 <address>
 Bitte keine Werbung!<br>
-
 
 E-Mail: [rosmarie@molano.ch](mailto:rosmarie@molano.ch)
 
