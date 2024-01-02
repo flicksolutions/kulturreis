@@ -32,19 +32,9 @@ Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung. Wir lade
 - Hausboot fahren
 
 <Gallery>
-![Rosmarie und Latifa](/20221013_105234.jpg)
-![Coaching-Session](/IMG_5762.jpg)
-![Coaching Gespräch](/PXL_20221231_135513544.MP.jpg)
-![Coaching beim Gehen](/PXL_20221231_135633716.jpg)
-![Coaching Situation](/PXL_20221231_135731446.MP.jpg)
-![Coaching Situation](/PXL_20221231_135927111.jpg)
-![Duana und Pylone](/PXL_20221231_140121518.jpg)
-![Coaching Situation](/PXL_20221231_140624249.jpg)
-![Coaching Situation](/PXL_20221231_140650354.MP.jpg)
-![Coaching Situation](/PXL_20221231_140311265.jpg)
-![Rosmarie und Latifa](/20230410_192502.jpg)
-![Rosmarie und Latifa](/IMG_5773_bearbeitet.jpg)
-![Rosmarie und Latifa](/IMG_5779_bearbeitet.jpg)
+![Rosmarie und Latifa](static/Hausboot_Gruppenfoto.JPG)
+![Coaching-Session](static/Hausboot_Gruppenfoto.JPG)
+
 </Gallery>
 
 ## Wer wir sind
@@ -55,7 +45,7 @@ Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung. Wir lade
 
 ### Chregu
 
-![Rosmarie Locher](/_20200404_155109.jpg#size=45vw)
+![Gruppenfoto](static/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Wein, Whisky, Bier
 
@@ -64,7 +54,7 @@ Spezialgebiet: Wein, Whisky, Bier
 
 ### Fäbi
 
-![Duana](/20201111_111555.jpg#size=45vw)
+![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Kaffee, vom Siebträger bis hin zum Filterkaffee
 
@@ -73,7 +63,7 @@ Spezialgebiet: Kaffee, vom Siebträger bis hin zum Filterkaffee
 
 ### Isbär
 
-![Latifa](/20221013_103340.jpg#size=45vw)
+![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Trinkt und isst gerne
 
@@ -82,7 +72,7 @@ Spezialgebiet: Trinkt und isst gerne
 
 ### Oli
 
-![Ada](/ada_new.jpg#size=45vw)
+![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 Spezialgebiet: Rechtliche Belangen
 
@@ -91,7 +81,7 @@ Spezialgebiet: Rechtliche Belangen
 
 ### Peti
 
-![Ada](/ada_new.jpg#size=45vw)
+![Gruppenfoto](/static/Hausboot_Gruppenfoto.JPGsize=45vw)
 
 Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmittel geben
 
@@ -100,7 +90,7 @@ Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmit
 
 ### Roman
 
-![Ada](/ada_new.jpg#size=45vw)
+![Ada](//static/Hausboot_Gruppenfoto.JPG#size=45vw)
 Spezialgebiet: Hat Tipps für alle Lebenslagen
 
 </div>
