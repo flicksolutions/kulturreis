@@ -7,8 +7,6 @@
 
 # Kulturreisen
 
-<ImgText>
-
 ![Flyer Save the date](static/200JahreKulturreisen_Savethedate.jpgg#size=95vw)
 
 ## Wer sind wir?
