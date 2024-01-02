@@ -91,20 +91,7 @@ Spezialgebiet: Hat Tipps für alle Lebenslagen
 
 ## Preise
 
-CHF 80.- / 60 Minuten
-Die Dauer eines Coachings variiert zwischen 90 und 120 Minuten.
-
-<ImgText>
-
-![Pferd und Mensch gehen im Gleichschritt](/IMG_5747.jpg#size=95vw)
-
-<figcaption>
-
-Auch der längste Weg beginnt mit dem ersten Schritt.
-
-</figcaption>
-
-</ImgText>
+Verhandelbar!
 
 ## Kontakt
 
