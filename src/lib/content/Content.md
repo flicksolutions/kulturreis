@@ -11,8 +11,6 @@
 
 ![Flyer Save the date](static/200JahreKulturreisen_Savethedate.jpgg#size=95vw)
 
-<figcaption><Bildinschrift>
-
 </ImgText>
 
 ## Wer sind wir?
@@ -22,7 +20,6 @@
 ## Was machen wir
 
 Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung. Wir laden zur Sause mit funky Sound von Spinning Wheel. Eintritt frei, Austritt Türkollekte. Wir freuen uns auf euch: Chregu, Fäbi, Isbär, Oli, Peti & Roman! 
-
 
 ## Was sind unsere Expertisen?
 
