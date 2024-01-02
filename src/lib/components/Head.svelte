@@ -1,5 +1,5 @@
 <script>
-	import logo from '$/lib/assets/Logo02.png';
+	import logo from '';
 	import Menu from '$lib/components/Menu.svelte';
 	import { onMount } from 'svelte';
 	import { tweened } from 'svelte/motion';
