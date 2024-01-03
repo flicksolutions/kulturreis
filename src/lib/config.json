@@ -24,14 +24,14 @@
 		"sm": {
 			"logos": [
 				{
-					"src": "-",
-					"alt": "-",
+					"src": "/Logo01.png",
+					"alt": "Logo",
 					"width": 829,
 					"height": 829
 				},
 				{
-					"src": "-",
-					"alt": "-",
+					"src": "Logo01.png",
+					"alt": "Logo",
 					"width": 183,
 					"height": 170
 				}
