@@ -9,6 +9,8 @@
 
 ![Flyer Save the date](/200JahreKulturreisen_Savethedate.jpg#size=95vw)
 
+Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
+
 ## Wer sind wir?
 
 6 Freunde aus Willisau.
@@ -25,65 +27,54 @@ Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung.
 - Hausboot fahren
 
 <Gallery>
-![Rosmarie und Latifa](/Hausboot_Gruppenfoto.JPG)
-![Coaching-Session](/Hausboot_Gruppenfoto.JPG)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
 </Gallery>
 
-## Wer wir sind
+## Wo waren wir
 
 <Columns>
 
 <div class="hero">
 
-### Chregu
+### Ausflug 1
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-Spezialgebiet: Wein, Whisky, Bier
 
 </div>
 <div class="hero">
 
-### Fäbi
+### Ausflug 2
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-Spezialgebiet: Kaffee, vom Siebträger bis hin zum Filterkaffee
 
 </div>
 <div class="hero">
 
-### Isbär
+### Ausflug 3
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-Spezialgebiet: Trinkt und isst gerne
 
 </div>
 <div class="hero">
 
-### Oli
+### Ausflug 4
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-Spezialgebiet: Rechtliche Belangen
 
 </div>
 <div class="hero">
 
-### Peti
+### Ausflug 5
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-Spezialgebiet: Technik, kann sehr viel Auskunft über das jeweilige Transportmittel geben
 
 </div>
 <div class="hero">
 
-### Roman
+### Ausflug 6
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-Spezialgebiet: Hat Tipps für alle Lebenslagen
 
 </div>
 
