@@ -50,6 +50,9 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
+</div>
+<div class="hero">
+
 ### London 2014
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
@@ -89,19 +92,23 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
+</div>
+<div class="hero">
+    
 ### Mailand 2021
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+
 </div>
+<div class="hero">
 
 ### Brüssel 2022
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-</Columns>
 
-### Melchtal 2023
+</div>
+<div class="hero">
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 ## Unsere Ziele
 
