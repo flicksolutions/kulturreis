@@ -87,7 +87,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 
-### Genua 2021
+### Mailand 2021
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 </div>
