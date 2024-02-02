@@ -61,6 +61,9 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
+</div>
+<div class="hero">
+    
 ### Cork 2017
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
@@ -86,7 +89,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
-
 ### Mailand 2021
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
@@ -97,7 +99,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 </Columns>
 
-### Melchtalf 2023
+### Melchtal 2023
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
