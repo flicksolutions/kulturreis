@@ -11,86 +11,103 @@
 
 Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
-## Wer sind wir?
+## Wer wir sind
 
-6 Freunde aus Willisau.
+6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
-## Was machen wir
+## Was wir feiern
 
-Am 15. März feiern wir auf den Tag 200 Jahre geballte Kulturerfahrung.
+Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrung.
 
-## Was sind unsere Expertisen?
+## Was wir gerne machen
 
-- Kulturelle Veranstaltungen
-- Essen
-- Trinken
-- Hausboot fahren
+- Kochen und Essen, lieber zweites
+- Trinken.
+- Städtereisen, wo es Essen und Trinken gibt
+- Hausboot, Polo, Klappvelo und Ski fahren
+- Super-Rose-Jass
+- Pflege regelmässigen kulturellen Austauschs im interkommunalen, interkantonalen und internationalen Kontext
 
 <Gallery>
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
 </Gallery>
 
-## Wo waren wir
+## Wo wir waren
 
 <Columns>
 
 <div class="hero">
 
-### Ausflug 1
+### Edinburgh 2011
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
-### Ausflug 2
+### Paris 2014
+
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+
+### London 2014
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
-### Ausflug 3
+### München 2015
+
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+
+### Cork 2017
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
-### Ausflug 4
+### Bordeaux 2018
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
-### Ausflug 5
+### Piemont 2019
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
-### Ausflug 6
+### Burgund 2020
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
+
+### Genua 2021
+
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 </div>
 
+### Brüssel 2022
+
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 </Columns>
 
-## Preise
+### Melchtalf 2023
 
-Verhandelbar!
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+
+## Unsere Ziele
+
+Aktives Kulturleben im In- und Ausland; Weltfrieden.
 
 ## Kontakt
 
 <address>
-Bitte keine Werbung!<br>
-
-E-Mail: [-](mailto:-)
-
-</address>
+Auf Kontaktanfrage.<br>
 
 <Mapbox location={[7.991864, 47.116437]} adress="Schlossfeldstrasse 1, 6130 Willisau" link="https://maps.app.goo.gl/Sx7kGhnA54F879J29"/>
