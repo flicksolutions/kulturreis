@@ -43,63 +43,63 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Paris 2014
 
-![Gruppenfoto](/Paris_2014.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### London 2014
 
-![Gruppenfoto](/Paris_2014.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### München 2015
 
-![Gruppenfoto](/Muenchen_2015.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
     
 ### Cork 2017
 
-![Gruppenfoto](/Cork_2017.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Bordeaux 2018
 
-![Gruppenfoto](/Bordeaux_2018.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Piemont 2019
 
-![Gruppenfoto](/Piemont_2019.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Burgund 2020
 
-![Gruppenfoto](/Burgund_2020.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
     
 ### Mailand 2021
 
-![Gruppenfoto](/Mailand_2021.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Brüssel 2022
 
-![Gruppenfoto](/Paris_2014.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
