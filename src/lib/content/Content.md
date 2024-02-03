@@ -104,7 +104,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 </div>
 <div class="hero">
 
-
 ## Unsere Ziele
 
 Aktives Kulturleben im In- und Ausland; Weltfrieden.
