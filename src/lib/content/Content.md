@@ -28,10 +28,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 - Super-Rose-Jass
 - Pflege regelmässigen kulturellen Austauschs im interkommunalen, interkantonalen und internationalen Kontext
 
-<Gallery>
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
-</Gallery>
+![Gruppenfoto](/Gruppenfoto Start.jpg)
 
 ## Wo wir waren
 
@@ -48,63 +45,63 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Paris 2014
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Paris 2014.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### London 2014
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/London 2014_erste Wahl.jpeg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### München 2015
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/MÅnchen 2015.jpg#size=45vw)
 
 </div>
 <div class="hero">
     
 ### Cork 2017
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Cork 2017.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Bordeaux 2018
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Bordeaux 2018.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Piemont 2019
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Piemont 2019.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Burgund 2020
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Burgund 2020.jpg#size=45vw)
 
 </div>
 <div class="hero">
     
 ### Mailand 2021
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Mailand 2021.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Brüssel 2022
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/BrÅssel 2022_erste Wahl.jpeg#size=45vw)
 
 </div>
 <div class="hero">
