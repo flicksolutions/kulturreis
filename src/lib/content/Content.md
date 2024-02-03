@@ -52,7 +52,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### London 2014
 
-![Gruppenfoto](/London_2014_erste Wahl.jpg#size=45vw)
+![Gruppenfoto](/Paris_2014.jpg#size=45vw)
 
 </div>
 <div class="hero">
@@ -101,7 +101,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Brüssel 2022
 
-![Gruppenfoto](/Bruessel_2022_erste Wahl.jpg#size=45vw)
+![Gruppenfoto](/Paris_2014.jpg#size=45vw)
 
 </div>
 <div class="hero">
