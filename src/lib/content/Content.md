@@ -28,7 +28,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 - Super-Rose-Jass
 - Pflege regelmässigen kulturellen Austauschs im interkommunalen, interkantonalen und internationalen Kontext
 
-- <Gallery>
+<Gallery>
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
 </Gallery>
@@ -49,9 +49,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ### Paris 2014
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
-</div>
-<div class="hero">
 
 ### London 2014
 
@@ -92,22 +89,19 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
-</div>
-<div class="hero">
-    
 ### Mailand 2021
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
-
 </div>
-<div class="hero">
 
 ### Brüssel 2022
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+</Columns>
 
-</div>
-<div class="hero">
+### Melchtal 2023
+
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 ## Unsere Ziele
 
