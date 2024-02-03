@@ -28,11 +28,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 - Super-Rose-Jass
 - Pflege regelmässigen kulturellen Austauschs im interkommunalen, interkantonalen und internationalen Kontext
 
-<Gallery>
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG)
-</Gallery>
-
 ## Wo wir waren
 
 <Columns>
