@@ -13,7 +13,7 @@ Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ## Wer wir sind
 
-![Gruppenfoto](/static/Gruppenfoto_Start.jpg#size=95vw)
+![Gruppenfoto](/Gruppenfoto_Start.jpg#size=95vw)
 
 6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
@@ -45,11 +45,11 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Paris 2014
 
-![Paris 2014](static/Paris_2014.jpg#size=45vw)
+![Paris 2014](/Paris_2014.jpg#size=45vw)
 
 ### London 2014
 
-![Gruppenfoto](static/London_2014_erste Wahl.jpg#size=45vw)
+![Gruppenfoto](/London_2014_erste Wahl.jpg#size=45vw)
 
 </div>
 <div class="hero">
