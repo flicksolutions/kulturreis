@@ -49,7 +49,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### London 2014
 
-![Gruppenfoto](/London_2014_erste Wahl.jpg#size=45vw)
+![Gruppenfoto](/London_2014_erste_Wahl.jpg#size=45vw)
 
 </div>
 <div class="hero">
