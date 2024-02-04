@@ -56,49 +56,45 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### München 2015
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Muenchen_2015.jpg#size=45vw)
 
 </div>
 <div class="hero">
     
 ### Cork 2017
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Cork_2017.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Bordeaux 2018
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Bordeaux_2018.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Piemont 2019
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Piemont_2019.jpg#size=45vw)
 
 </div>
 <div class="hero">
 
 ### Burgund 2020
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Burgund_2020.jpg#size=45vw)
 
 ### Mailand 2021
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Mailand_2021.jpgG#size=45vw)
 </div>
 
 ### Brüssel 2022
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Bruessel_2022_erste_Wahl.jpg#size=45vw)
 </Columns>
-
-### Melchtal 2023
-
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 ## Unsere Ziele
 
