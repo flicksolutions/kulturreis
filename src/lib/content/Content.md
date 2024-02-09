@@ -47,6 +47,9 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Paris 2014](/Paris_2014.jpg#size=45vw)
 
+</div>
+<div class="hero">
+
 ### London 2014
 
 ![Gruppenfoto](/London_2014_erste_Wahl.jpg#size=45vw)
@@ -60,8 +63,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 </div>
 <div class="hero">
-
-## Cork 2017
 
 ### Cork 2017
 
