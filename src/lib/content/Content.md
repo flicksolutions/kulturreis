@@ -38,7 +38,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Edinburgh 2011
 
-![Edinburgh 2011](/Edinburgh_2011.jpg#size=45vw)
+![Paris 2014](/Paris_2014.jpg#size=45vw)
 
 </div>
 <div class="hero">
