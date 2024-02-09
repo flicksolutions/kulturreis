@@ -38,7 +38,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Edinburgh 2011
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Gruppenfoto](/Edinburgh_2011.jpg#size=45vw)
 
 </div>
 <div class="hero">
@@ -60,7 +60,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 </div>
 <div class="hero">
-    
+
 ### Cork 2017
 
 ![Gruppenfoto](/Cork_2017.jpg#size=45vw)
@@ -89,7 +89,9 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ### Mailand 2021
 
 ![Gruppenfoto](/Mailand_2021.jpg#size=45vw)
+
 </div>
+<div class="hero">
 
 ### Brüssel 2022
 
