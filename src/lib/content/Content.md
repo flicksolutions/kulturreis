@@ -88,6 +88,9 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Burgund_2020.jpg#size=45vw)
 
+</div>
+<div class="hero">
+
 ### Mailand 2021
 
 ![Gruppenfoto](/Mailand_2021.jpg#size=45vw)
