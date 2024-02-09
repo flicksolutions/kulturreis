@@ -38,7 +38,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Edinburgh 2011
 
-![Gruppenfoto](/Edinburgh_2011.jpg#size=45vw)
+![Edinburgh 2011](/Edinburgh_2011.jpg#size=45vw)
 
 </div>
 <div class="hero">
@@ -60,6 +60,8 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 </div>
 <div class="hero">
+
+## Cork 2017
 
 ### Cork 2017
 
