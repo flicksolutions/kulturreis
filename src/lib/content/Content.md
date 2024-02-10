@@ -15,7 +15,7 @@ Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ![Gruppenfoto](/Gruppenfoto_Start.jpg#size=95vw)
 
-6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur. Test
+6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
 ## Was wir feiern
 
@@ -94,11 +94,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ### Brüssel 2022
 
 ![Gruppenfoto](/Bruessel_2022_erste_Wahl.jpg#size=45vw)
-
-</div>
-<div class="hero">
-
-<Columns>
+</Columns>
 
 ## Unsere Ziele
 
