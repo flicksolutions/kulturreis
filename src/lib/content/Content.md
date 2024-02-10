@@ -63,7 +63,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 </div>
 <div class="hero">
-    
+
 ### Cork 2017
 
 ![Gruppenfoto](/Cork_2017.jpg#size=45vw)
