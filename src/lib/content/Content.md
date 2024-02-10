@@ -15,7 +15,7 @@ Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ![Gruppenfoto](/Gruppenfoto_Start.jpg#size=95vw)
 
-6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
+6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur. Test
 
 ## Was wir feiern
 
@@ -38,7 +38,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Edinburgh 2011
 
-![Paris 2014](/Paris_2014.jpg#size=45vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
 
 </div>
 <div class="hero">
@@ -46,9 +46,6 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ### Paris 2014
 
 ![Paris 2014](/Paris_2014.jpg#size=45vw)
-
-</div>
-<div class="hero">
 
 ### London 2014
 
@@ -63,7 +60,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 </div>
 <div class="hero">
-
+    
 ### Cork 2017
 
 ![Gruppenfoto](/Cork_2017.jpg#size=45vw)
@@ -89,15 +86,10 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ![Gruppenfoto](/Burgund_2020.jpg#size=45vw)
 
-</div>
-<div class="hero">
-
 ### Mailand 2021
 
 ![Gruppenfoto](/Mailand_2021.jpg#size=45vw)
-
 </div>
-<div class="hero">
 
 ### Brüssel 2022
 
