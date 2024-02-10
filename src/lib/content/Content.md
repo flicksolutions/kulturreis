@@ -38,7 +38,7 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 
 ### Edinburgh 2011
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=45vw)
+![Edinburgh 2011](/Edinburgh2011.jpg#size=45vw)
 
 </div>
 <div class="hero">
