@@ -102,6 +102,10 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 ### Brüssel 2022
 
 ![Gruppenfoto](/Bruessel_2022_erste_Wahl.jpg#size=45vw)
+
+</div>
+<div class="hero">
+    
 </Columns>
 
 ## Unsere Ziele
