@@ -9,11 +9,13 @@
 
 ![Flyer Save the date](/200JahreKulturreisen_Savethedate.jpg#size=95vw)
 
+https://www.spinningwheel.ch/music/
+
 Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ## Wer wir sind
 
-![Gruppenfoto](/Gruppenfoto_Start.jpg#size=95vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.jpg#size=95vw)
 
 6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
