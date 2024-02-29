@@ -11,7 +11,7 @@
 
 https://www.spinningwheel.ch/music/
 
-Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
+Anmeldung erwünscht: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ## Wer wir sind
 
