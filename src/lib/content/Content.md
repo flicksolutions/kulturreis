@@ -15,7 +15,7 @@ Anmeldung: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
 
 ## Wer wir sind
 
-![Gruppenfoto](/Hausboot_Gruppenfoto.jpg#size=95vw)
+![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=95vw)
 
 6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
