@@ -11,8 +11,6 @@
 
 https://www.spinningwheel.ch/music/
 
-Anmeldung erwünscht: https://forms.office.com/r/xJfMt25iFn?origin=lprLink
-
 ## Wer wir sind
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=95vw)
