@@ -13,10 +13,6 @@
 
 6 Freunde aus Willisau, vereint durch Musik, Geschichte und Kultur.
 
-## Was wir feiern
-
-Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrung.
-
 ## Was wir gerne machen
 
 - Kochen und Essen, lieber zweites
@@ -25,6 +21,10 @@ Am 15. März 2024 feiern wir auf den Tag genau 200 Jahre geballte Kulturerfahrun
 - Hausboot, Polo, Klappvelo und Ski fahren
 - Super-Rose-Jass
 - Pflege regelmässigen kulturellen Austauschs im interkommunalen, interkantonalen und internationalen Kontext
+
+## 200 Jahre Kulturreisen
+
+Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit einem rauschenden Fest und einem grandiosen Auftritt von Spinning Wheel.
 
 ## Wo wir waren
 
@@ -113,4 +113,4 @@ Aktives Kulturleben im In- und Ausland; Weltfrieden.
 <address>
 Auf Kontaktanfrage.<br>
 
-<Mapbox location={[7.991864, 47.116437]} adress="Schlossstrasse 2, 6130 Willisau" link="https://maps.app.goo.gl/Bsk9EaQRXyfz8U2z7">
+<Mapbox location={[7.991864, 47.116437]} adress="Schlossstrasse 2, 6130 Willisau "link="https://maps.app.goo.gl/Bsk9EaQRXyfz8U2z7">
