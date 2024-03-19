@@ -7,10 +7,6 @@
 
 # Kulturreisen
 
-![Flyer Save the date](/200JahreKulturreisen_Savethedate.jpg#size=95vw)
-
-https://www.spinningwheel.ch/music/
-
 ## Wer wir sind
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=95vw)
@@ -117,4 +113,4 @@ Aktives Kulturleben im In- und Ausland; Weltfrieden.
 <address>
 Auf Kontaktanfrage.<br>
 
-<Mapbox location={[7.991864, 47.116437]} adress="Schlossfeldstrasse 1, 6130 Willisau" link="https://maps.app.goo.gl/Sx7kGhnA54F879J29"/>
+<Mapbox location={[7.991864, 47.116437]} adress="Schlossstrasse 2, 6130 Willisau" link="https://maps.app.goo.gl/Bsk9EaQRXyfz8U2z7">
