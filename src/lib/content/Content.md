@@ -113,4 +113,4 @@ Aktives Kulturleben im In- und Ausland; Weltfrieden.
 <address>
 Auf Kontaktanfrage.<br>
 
-<Mapbox location={[7.991864, 47.116437]} adress="Schlossstrasse 2, 6130 Willisau" link="https://maps.app.goo.gl/Bsk9EaQRXyfz8U2z7"/>
+<Mapbox location={[7.989906, 47.119067]} adress="Schlossstrasse 2, 6130 Willisau" link="https://maps.app.goo.gl/Bsk9EaQRXyfz8U2z7"/>
