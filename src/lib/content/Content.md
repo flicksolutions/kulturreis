@@ -95,7 +95,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 </div>
 <div class="hero">
 
-### 15.März 2024: 200 Jahre Kulturreise
+### 15. März 2024: 200 Jahre Kulturreise
 
 ![Gruppenfoto](/200Jahreparty.jpeg#size=45vw)
 
@@ -124,6 +124,8 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 <div class="hero">
 
 ### SAVE THE DATE: BIG MUSTAF
+
+
 
 Freitag 24. Oktober 2025: Schlossschür Willisau 20.30 Uhr
 
