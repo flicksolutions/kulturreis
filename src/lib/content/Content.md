@@ -123,7 +123,8 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 </div>
 <div class="hero">
     
-### SAVE THE DATE 
+### Save the date
+
 
 BIG MUSTAF Herbst 2025
 
