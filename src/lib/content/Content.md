@@ -115,12 +115,6 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 </div>
 <div class="hero">
-### Brüssel 2022
-
-![Gruppenfoto](/Bruessel_2022_erste_Wahl.jpg#size=45vw)
-
-</div>
-<div class="hero">
 
 ### Wales 2025
 
@@ -129,7 +123,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 </div>
 <div class="hero">
     
-### SAVE THE DATE: BIG MUSTAF Herbst 2025
+### SAVE THE DATE BIG MUSTAF Herbst 2025
 
 Freitag 24. Oktober 2025: Schlossschür Willisau 20.30 Uhr
 Samstag 25. Oktober 2025: Parterre Luzern 20.30 Uhr
