@@ -104,7 +104,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 ### Wales 2025
 
-![Gruppenfoto](/Wales_2025.jpeg#size=45vw)
+![Gruppenfoto](/Wales_2025.png#size=45vw)
 
 </div>
 <div class="hero">
