@@ -95,7 +95,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 </div>
 <div class="hero">
 
-### 200 Jahre Kulturreise
+### 15.März 2024: 200 Jahre Kulturreise
 
 ![Gruppenfoto](/200Jahreparty.jpeg#size=45vw)
 
