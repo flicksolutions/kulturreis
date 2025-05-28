@@ -95,6 +95,26 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 </div>
 <div class="hero">
 
+### 200 Jahre Kulturreise
+
+![Gruppenfoto](/200Jahreparty.jpeg#size=45vw)
+
+</div>
+<div class="hero">
+
+### Maderanertal Sommer 2024
+
+![Gruppenfoto](/Maderanertal_2024.png#size=45vw)
+
+</div>
+<div class="hero">
+
+### Elsass Herbst 2024
+
+![Gruppenfoto](/Elsass_2024.jpg#size=45vw)
+
+</div>
+<div class="hero">
 ### Brüssel 2022
 
 ![Gruppenfoto](/Bruessel_2022_erste_Wahl.jpg#size=45vw)
@@ -105,6 +125,16 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 ### Wales 2025
 
 ![Gruppenfoto](/Wales_2025.png#size=45vw)
+
+</div>
+<div class="hero">
+    
+### SAVE THE DATE: BIG MUSTAF Herbst 2025
+
+Freitag 24. Oktober 2025: Schlossschür Willisau 20.30 Uhr
+Samstag 25. Oktober 2025: Parterre Luzern 20.30 Uhr
+
+![Gruppenfoto](/200Jahreparty.jpeg#size=45vw)
 
 </div>
 <div class="hero">
