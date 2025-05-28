@@ -106,7 +106,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 ## Unsere Ziele
 
-Aktives Kulturleben im In- und Ausland; Weltfrieden.
+Aktives Kulturleben im In- und Ausland; Weltfrieden, usw.
 
 ## Kontakt
 
