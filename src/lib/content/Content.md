@@ -122,11 +122,8 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 </div>
 <div class="hero">
-    
-### Save the date
 
-
-BIG MUSTAF Herbst 2025
+### SAVE THE DATE: BIG MUSTAF
 
 Freitag 24. Oktober 2025: Schlossschür Willisau 20.30 Uhr
 
