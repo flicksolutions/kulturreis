@@ -7,6 +7,10 @@
 
 # Kulturreisen
 
+## SAVE THE DATE: BIG MUSTAF
+
+![Gruppenfoto](/BigMustaf.jpeg#size=95vw)
+
 ## Wer wir sind
 
 ![Gruppenfoto](/Hausboot_Gruppenfoto.JPG#size=95vw)
@@ -122,19 +126,8 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 </div>
 <div class="hero">
-
-### SAVE THE DATE: BIG MUSTAF
-
-![Gruppenfoto](/BigMustaf.jpeg#size=100vh)
-
-</div>
-<div class="hero">
     
 </Columns>
-
-## SAVE THE DATE: BIG MUSTAF
-
-![Gruppenfoto](/BigMustaf.jpeg#size=95vw)
 
 ## Unsere Ziele
 
