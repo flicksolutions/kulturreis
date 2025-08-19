@@ -125,7 +125,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 ### SAVE THE DATE: BIG MUSTAF
 
-![Gruppenfoto](/BigMustaf.jpeg#size=45vw)
+![Gruppenfoto](/BigMustaf.jpeg)
 
 </div>
 <div class="hero">
