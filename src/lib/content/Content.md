@@ -125,11 +125,7 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
 
 ### SAVE THE DATE: BIG MUSTAF
 
-
-
-Freitag 24. Oktober 2025: Schlossschür Willisau 20.30 Uhr
-
-Samstag 25. Oktober 2025: Parterre Luzern 20.30 Uhr
+![Gruppenfoto](/BigMustaf.jpeg#size=45vw)
 
 </div>
 <div class="hero">
