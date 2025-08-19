@@ -132,6 +132,10 @@ Am 15. März 2024 feierten wir auf den Tag genau 200 Jahre Kulturreisen mit eine
     
 </Columns>
 
+## SAVE THE DATE: BIG MUSTAF
+
+![Gruppenfoto](/BigMustaf.jpeg#size=95vw)
+
 ## Unsere Ziele
 
 Aktives Kulturleben im In- und Ausland; Weltfrieden.
